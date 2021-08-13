@@ -1,0 +1,370 @@
+.app{
+      text-size-adjust: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100%;
+}
+.payrent-css1{
+    text-size-adjust: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    height: 100%;
+}
+
+.payrent-css2{
+      text-size-adjust: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    background-color: #f2f3f8;
+}
+
+.payrent-css2{
+      text-size-adjust: 100%;
+    box-sizing: border-box;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 44px;
+    font-size: 12px;
+    transition: transform 0.2s;
+    background-color: transparent;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.45),transparent);
+    width: 980px;
+    margin: 20px auto 0;
+    position: absolute;
+    left: 50%;
+    z-index: 2;
+    transform: translateX(-50%);
+    top: 0;
+    background: none;
+}
+
+.payrent-css3{
+      text-size-adjust: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    background-color: transparent;
+    color: inherit;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    height: 100%;
+    padding: 13px 0;
+    width: 173px;
+}
+
+.payrent-css4{
+      text-size-adjust: 100%;
+    color: inherit;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    border: none;
+    outline: none;
+    object-fit: cover;
+    height: 18px;
+}
+
+.payrent-css5{
+      text-size-adjust: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: auto;
+}
+
+.payrent-css6{
+      text-size-adjust: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    background-color: transparent;
+    color: inherit;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+.payrent-css7{
+      text-size-adjust: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    height: 44px; 
+    padding: 0 15px;
+    line-height: 44px;
+    color: #fff;
+    cursor: pointer;
+    border-left: none;
+}
+.payrent-css8{
+      text-size-adjust: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    position: relative;
+}
+
+.css-1jri2yk{
+      text-size-adjust: 100%;
+    box-sizing: border-box;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    position: fixed;
+    width: 980px;
+    margin: auto;
+    z-index: 1;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 92px;
+    pointer-events: none;
+}
+.css-1rqmccf{
+      text-size-adjust: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    padding-top: 24px;
+    overflow: auto;
+    width: 420px;
+    border-radius: 10px;
+    box-shadow: 0 3px 27px 0 rgba(0,0,0,0.1);
+    background: #fff;
+    float: right;
+    pointer-events: initial;
+}
+
+.css-103u7za{
+      text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+}
+
+.css-ua8c6t{
+      text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 500;
+    text-align: center;
+    color: #222;
+    font-size: 30px;
+    margin-top: 0;
+    line-height: 31px;
+}
+
+.css-172zkvc{
+    text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    font-size: 16px;
+    color: #7f7f7f;
+    margin: 10px 0 0;
+    line-height: 16px;
+}
+
+.css-621co9{
+      text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+}
+
+.css-1xhh1aj{
+      text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    border: none;
+    outline: none;
+    animation: 300ms linear 0s 1 normal none running animation-1qbobka;
+    object-fit: cover;
+    position: absolute;
+    right: 0px;
+    z-index: 1;
+    height: 85px;
+    top: auto;
+    bottom: 125px;
+}
+
+.css-1eliijb{    text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0 10px;
+    margin: 0px 34px 17px 34px;}
+
+
+.css-13j1d4m{    text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    color: #333;
+    margin-left: 36px;
+    font-size: 16px;
+    line-height: 28px;
+    padding-right: 24px;}
+
+
+.css-1q846nw{    text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    border: none;
+    outline: none;
+    animation: 300ms linear 0s 1 normal none running animation-1qbobka;
+    object-fit: contain;
+    height: 32px;}
+
+
+.css-1mwd3sq{
+      text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    margin: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: #f2f3f8;
+    padding: 14px 20px 13px;
+    border-radius: 0 0 10px 10px;
+    position: sticky;
+    bottom: 0;
+}
+
+.css-5r1qs4{
+      text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    margin: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: #f2f3f8;
+    padding: 14px 20px 13px;
+    border-radius: 0 0 10px 10px;
+    position: sticky;
+    bottom: 0;
+}
+
+.css-1xg5ldy{
+      text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    color: #999;
+    margin-bottom: 13px;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.css-8wdla8{
+    padding: 0 14px;
+    border: 1px solid #1dd38f;
+    font-size: 14px;
+    line-height: 28px;
+    color: #fff;
+    background-color: #1dd38f;
+    border-radius: 2px;
+    cursor: pointer;
+    margin: auto;
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+    background-color: #55d6a7;
+    border: none;
+
+}

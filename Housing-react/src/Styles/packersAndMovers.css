@@ -1,0 +1,385 @@
+.packers1 {
+  z-index: 1;
+  left: 50%;
+  pointer-events: none;
+  float: right;
+  margin-right: 5%;
+  transform: trlateX(-26%);
+  top: 92px;
+}
+.packers2 {
+  max-width: 420px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 27px 0px;
+  background: #ffffff;
+  pointer-events: initial;
+  padding-top: 24px;
+  position: relative;
+  left: 5px;
+}
+.css-103u7za {
+  -webkit-text-size-adjust: 100%;
+  color: #999999;
+  font-family: "Rubik", sans-serif;
+
+  line-height: 1.6;
+  pointer-events: initial;
+  box-sizing: inherit;
+}
+
+.packers3 {
+  -webkit-text-size-adjust: 100%;
+  color: #999999;
+  font-family: "Rubik", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.6;
+  pointer-events: initial;
+  box-sizing: inherit;
+}
+.packers4 {
+  margin: 10px 0px 0px;
+  line-height: 21px;
+  font-size: 16px;
+  color: rgb(127, 127, 127);
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+}
+
+.packers5 {
+  margin-top: 27px;
+}
+
+.packers6 {
+  margin: 0px 34px 7px;
+  display: flex;
+  -moz-box-align: center;
+  align-items: center;
+}
+
+.packers7 {
+  animation: 300ms linear 0s 1 normal none running animation-1qbobka;
+  object-fit: contain;
+  height: 70px;
+}
+
+.packers8 {
+  font-size: 16px;
+  line-height: 28px;
+  padding-right: 24px;
+  color: rgb(51, 51, 51);
+  margin-left: 20px;
+  font-family: "Rubik", sans-serif;
+}
+
+.packers9 {
+  animation: 300ms linear 0s 1 normal none running animation-1qbobka;
+  object-fit: cover;
+  position: absolute;
+  right: 0%;
+  top: 64%;
+  bottom: 11%;
+  z-index: 1;
+  height: 85px;
+  top: auto;
+}
+.packers10 {
+  width: calc(100% - 28px);
+  height: 60px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  margin: auto;
+  border: 3px solid rgb(85, 214, 167);
+  padding: 0px 14px;
+  box-shadow: 0px 3px #40b188;
+  border-radius: 10px;
+  background-color: rgb(85, 214, 167);
+  font-family: "Rubik", sans-serif;
+}
+
+.packers11 {
+  margin-bottom: 14px;
+  font-size: 17px;
+  line-height: 22px;
+  color: rgb(51, 51, 51);
+  text-align: center;
+  font-weight: bold;
+  font-family: "Rubik", sans-serif;
+}
+
+.packers12 {
+  min-height: 810px;
+  background: #f49858 
+  url("https://cdn.spark.app/media/housingcom/icon/packers_and_movers_bg.svg")
+    repeat scroll center center / cover;
+  border-radius: 0px 0px 54px 54px;
+}
+
+.packers13 {
+  display: flex;
+  margin-left: 5%;
+}
+
+.packers14 {
+  font-size: 28px !important;
+  line-height: 30px;
+  margin-top: 7px;
+  color: #fff;
+  font-family: "Rubik", sans-serif;
+}
+.packers15 {
+  font-size: 28px !important;
+  line-height: 30px;
+  margin-top: 7px;
+  margin-left: 5px;
+  color: #fff;
+  font-family: "Rubik", sans-serif;
+}
+
+.packers16{
+  font-size: 16px; margin-top: 14px;
+line-height: 27px; margin-left:5%; width: 338px; color: #561111;
+    margin-bottom: 28px; font-family: 'Rubik', sans-serif
+}
+
+.packers17{
+  animation: 300ms linear 0s 1 normal none running animation-1qbobka; object-fit: cover;
+height: 411px; padding-top: 50px;
+}
+
+.packers18{
+  object-fit: cover;
+height: 19px;
+margin: 41px; object-fit: cover;
+height: 19px; margin: 41px 41px -25px 41px; cursor: pointer
+}
+
+.css-rw1yyy {
+    animation: 300ms linear 0s 1 normal none running animation-1qbobka;
+    object-fit: cover;
+    width: 150px;
+    margin: 0px auto 10px;
+    display: block;
+    padding: 20px 20px 0px;
+}
+
+img, a {
+    border: none;
+    outline: none;
+}
+
+
+.css-1f0guh3 {    
+  text-size-adjust: 100%;
+    box-sizing: border-box;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    position: relative;
+    min-width: 520px;
+    border-radius: 10px;
+    box-shadow: 0 3px 27px 0 rgba(0,0,0,0.1);
+    background: #fff;
+    margin: 0 auto;
+    pointer-events: initial;
+    width: 420px;
+    padding: 38px 20px 37px;
+    animation: animation-qdt1lf 500ms;
+    overflow: hidden;
+}
+
+.css-10m1197 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 24px 24px 16px 24px;
+    box-shadow: 0 0 20px rgb(0 0 0 / 15%);
+    margin: -35px -20px 0px -20px;
+}
+
+.css-o1ehk8 {
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #e9eaf0;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    border-radius: 50%;
+}
+
+.css-1vd0mou {
+    animation: 300ms linear 0s 1 normal none running animation-1qbobka;
+    object-fit: cover;
+}
+
+.css-y6ta9y {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-left: 16px;
+}
+
+.css-1s9w8ju {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+    margin-top: 6px;
+}
+
+.css-0{
+     text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased; 
+}
+
+.css-c18jar {
+    padding-bottom: 80px;
+        text-size-adjust: 100%;
+    pointer-events: initial;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    padding-bottom: 80px;
+}
+
+.css-10gqcnf {
+    display: block;
+    color: #5e23dc;
+} 
+
+.form-item {    text-size-adjust: 100%;
+    pointer-events: initial;
+    color: #5e23dc;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    margin-top: 30px;}
+
+    .css-vxtpyg .inputStyle {
+    font-size: 18px;
+    font-weight: 500;
+    color: #222;
+    margin-top: 34px;
+}
+.css-5i0mqs {
+    display: block;
+    background: none;
+    padding: 0 10px 8px 0px;
+    margin-top: 9px;
+    border-width: 0;
+    font-size: 16px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    width: 100%;
+    color: transparent;
+    box-shadow: none;
+    outline: none;
+    height: 27px;
+}
+.css-gipm1a {
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    -webkit-letter-spacing: 0.2px;
+    -moz-letter-spacing: 0.2px;
+    -ms-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
+    margin-top: 30px;
+    position: relative;
+} 
+
+.css-szbi6c {
+    font-size: 9px;
+    font-weight: 500;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    color: rgba(0,0,0,0.9);
+}
+
+.css-83qvp7 {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+}
+
+.input-container{
+      text-size-adjust: 100%;
+    pointer-events: initial;
+    color: #5e23dc;
+    letter-spacing: 0.2px;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+}
+
+.inputStyle {
+    font-size: 18px;
+    font-weight: 500;
+    color: #222;
+    margin-top: 34px;
+}
+
+.css-71poe3 {
+    height: 26px;
+    margin-top: 50px;
+    position: relative;
+}
+
+.css-1ondzt8 {
+    position: absolute;
+    right: 10px;
+    top: 4px;
+    height: 8px;
+    width: 8px;
+    border: 1px solid rgba(0,0,0,0.3);
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    border-top: none;
+    border-left: none;
+}
+
+.content-container {
+    z-index: 1;
+    box-shadow: 0 11px 9px 0 rgb(0 0 0 / 10%);
+    max-height: 250px;
+    overflow: auto;
+    margin-bottom: 24px;
+} 
+.css-c4ctc9 {
+    cursor: pointer;
+    padding: 4px 10px;
+}

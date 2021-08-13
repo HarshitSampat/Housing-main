@@ -1,0 +1,55 @@
+.css-1p7aij3{
+    
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    height: 650px;
+    margin: 0px auto;
+    padding: 100px 0px 0px 100px;
+    color: rgb(255, 255, 255);
+    transform-origin: center top;
+    opacity: 1;
+    animation: 1.5s ease 0s 1 normal none running animation-1m9x6y3;
+}
+.css-l8duum{
+    object-fit: cover;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+.css-oxm6bm{
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    z-index: 10;
+    transform: translateY(0px);
+    font-size: 12px;
+    transition: transform 0.2s ease 0s;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    padding: 0px 82px;
+    color: rgb(0, 0, 0);
+    background: rgba(59, 28, 141, 0.3);
+    opacity: 0;
+    backdrop-filter: blur(50px);
+    animation: 0.5s ease 0s 1 normal forwards running animation-1gf3sgm;
+}
+.css-12bkj11{
+    height: 100%;
+    padding: 13px 0px;
+    width: 173px;
+}
+
+.css-4g1jii{
+    
+    object-fit: cover;
+    height: 18px;
+
+}

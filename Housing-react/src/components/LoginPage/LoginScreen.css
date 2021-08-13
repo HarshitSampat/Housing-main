@@ -1,0 +1,18 @@
+.loginContainer {
+
+  width:550px;
+  margin: 20px;
+  background-color: rgba(0, 0, 0, 0.199);
+  margin-left: 300px;
+}
+
+.smaller-input {
+  margin-left: 55px;
+  margin-right: 5px;
+  width: 400px;
+  justify-content: center;
+}
+
+.button{
+  margin-left: 200px;
+}

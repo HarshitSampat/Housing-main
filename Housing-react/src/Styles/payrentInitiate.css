@@ -1,0 +1,347 @@
+.css-159dnqk{
+    text-size-adjust: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    height: 100%;
+}
+.css-1yeiifd {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100vh;
+}
+
+.css-18dz4ui{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: flex-start;
+    -webkit-box-align: flex-start;
+    -ms-flex-align: flex-start;
+    align-items: flex-start;
+    padding: 30px 40px;
+    width: 447px;
+    max-height: 100vh;
+    overflow: auto;
+    background: url(//c.housingcdn.com/s/assets/rentPayBannerDesk.265ee112.svg) no-repeat,linear-gradient(
+360deg
+,#2f116d 50%,#2f116d 0%);
+}
+
+.css-4g6ai3 {
+    cursor: pointer;
+}
+
+.css-njf4g7 {
+    margin-top: auto;
+    font-weight: 500;
+    color: #fff;
+    font-size: 30px;    
+}
+.css-0{}
+
+.css-18j2vu0{
+    
+    margin: 16px 0 auto;
+    width: 252px;
+    color: #fff;
+    opacity: 0.7;
+    font-size: 18px;
+    line-height: 28px;
+                            
+}
+
+.css-19yyaij{
+    width: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    margin: 20px 0;
+    cursor: pointer;
+    position: relative;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    cursor: default;
+    pointer-events: none;
+}
+
+
+.css-y9vlvs{
+    width: 36px;
+    height: 36px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    border-radius: 18px;
+    border: 1px solid #fff;
+    color: #9a7dcc;
+}
+
+.css-1vd0mou{
+    animation: 300ms linear 0s 1 normal none running animation-1qbobka;
+    object-fit: cover;
+}
+
+.css-1bqp17d{
+    width: calc(100% - 36px - 48px - 12px - 10px);
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    margin-left: 12px;
+
+}
+
+.css-1pxw95b{
+    width: 36px;    
+    height: 36px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    border-radius: 18px;
+    opacity: 0.6;
+    color: #9a7dcc;
+}
+img, a {
+    border: none;
+    outline: none;
+}
+
+.css-79fk72{
+    width: calc(100% - 36px - 48px - 12px - 10px);
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    margin-left: 12px;
+    opacity: 0.6;   
+}
+
+.css-1o64udk{
+    object-fit: cover;
+    width: 92px;
+    margin-top: auto;       
+}
+
+.css-10xtqnh {
+    position: relative;
+    width: calc(100% - 400px);
+    margin-bottom: 60px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.css-1hhrlb6 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #333;
+    width: 480px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    padding-top: 60px;
+    background-color: #fff;
+    margin-bottom: 6px;
+}
+
+
+.css-mtq8eu{
+    width: 100%;
+    overflow: auto;
+}
+
+.css-rdjfux{
+    display: block;
+    width: 480px;
+    margin: 0 auto;
+}
+
+.css-a802sj{
+    margin-top: 30px;
+}
+
+.css-vxtpyg .inputStyle{
+    position: relative;
+    display: block;
+    margin-top: 20px;
+    -webkit-letter-spacing: 0.2px;
+    -moz-letter-spacing: 0.2px;
+    -ms-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
+}
+
+.css-5i0mqs{
+    display: block;
+    background: none;
+    padding: 0 10px 8px 0px;
+    margin-top: 9px;
+    border-width: 0;
+    font-size: 16px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    width: 100%;
+    color: transparent;
+    box-shadow: none;
+    outline: none;
+    height: 27px;
+}
+
+.css-7eclcj{position: absolute;
+    left: 0;
+    top: 0px;
+    pointer-events: none;
+    color: rgba(0,0,0,0.38);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -webkit-transition: all 0.28s ease;
+    transition: all 0.28s ease;
+    font-size: 12px;
+    background: #fff}
+
+
+.css-a687h8{position: relative;
+    display: block;
+    margin-top: 20px;
+    -webkit-letter-spacing: 0.2px;
+    -moz-letter-spacing: 0.2px;
+    -ms-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;}
+
+    .css-1lrb7un {
+    height: 60px;
+}
+
+.css-g3zf8k {
+    font-size: 18px;
+    font-weight: 500;
+    margin-right: 18px;
+    color: rgb(153, 153, 153);
+    cursor: pointer;
+}
+
+.css-v2lr2s.primary.disabled, .css-v2lr2s.quaternary.disabled {
+    background-color: #7f7f7f;
+    border-color: #6b6b6b;
+}
+
+.css-5uj2yn {
+    display: inline-block;
+    margin: 5px;
+    padding: 0 12px;
+    height: 36px;
+    border-radius: 18px;
+    color: #757575;
+    line-height: 36px;
+    background-color: #fff;
+    border: solid 1px #e6e6e6;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.css-p0ihvz {
+    margin: 2px 0px 0px 7px;
+    color: rgb(224, 39, 39);
+    font-size: 11px;
+    width: 100%;
+    display: inline-block;
+    text-align: left;
+}
+
+.css-v2lr2s.primary {
+    font-size: 14px;
+    line-height: 20px;
+    color: #fff;
+    background-color: #55d6a7;
+    border-bottom: solid 3px #4bba92;
+}
+.css-v2lr2s.default {
+    font-size: 12px;
+    line-height: 16px;
+    color: #5e47dc;
+    background-color: rgba(94,71,220,0.1);
+}
+.css-v2lr2s {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 48px;
+    padding: 0 15px;
+    border: none;
+    font-weight: 500;
+    border-radius: 10px;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 22px;
+    bottom: 15px;
+    right: 0;
+    left: 0;
+    width: calc(100% - 48px);
+    margin: 40px auto 0;
+}
+button, input, select {
+    border: none;
+    border-radius: 0px;
+    outline: none;
+}
+
+input:focus ~ .css-7eclcj, input.has-value ~ .css-7eclcj {
+    font-size: 9px;
+    top: -21px;
+    left: 0;
+    font-weight: 500;
+    color: rgba(0,0,0,0.9);
+}       
+
+.css-vxtpyg .inputLabelStyle {
+    font-size: 18px;
+    font-weight: 400;
+    color: #bfc0c6;
+}       

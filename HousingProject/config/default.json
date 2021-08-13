@@ -1,0 +1,14 @@
+ {
+    "app": {
+        "port": 3000
+    },
+    "db": {
+        "host": "localhost",
+        "port": 27017,
+        "name": "housing_harshit"
+    },
+    "env":{
+
+        "JWT_SECRET" : "Harshit1234"
+    }
+}
